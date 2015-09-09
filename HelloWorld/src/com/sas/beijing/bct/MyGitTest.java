@@ -6,7 +6,7 @@ public class MyGitTest {
 		System.out.println("Hello World!");
 		System.out.println("Hello Git!");
 		System.out.println("Hello GitHub!");
-		System.out.println("wrong!")
+		System.out.println("wrong!");
 
 	}
 
