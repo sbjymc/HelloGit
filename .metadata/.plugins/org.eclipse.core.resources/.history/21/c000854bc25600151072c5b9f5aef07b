@@ -1,0 +1,13 @@
+package com.sas.beijing.bct;
+
+public class MyGitTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
