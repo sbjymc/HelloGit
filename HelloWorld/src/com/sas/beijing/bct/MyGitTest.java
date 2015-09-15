@@ -11,7 +11,7 @@ public class MyGitTest {
 		System.out.println("Hello Git again! it's mip");
 		System.out.println("Hello Git again! it's test);
 		System.out.println("Hello Git again! it's test2);
-		System.out.println("Hello Git again! it's test5);
+		System.out.println("Hello Git again! it's test6);
 
 
 
