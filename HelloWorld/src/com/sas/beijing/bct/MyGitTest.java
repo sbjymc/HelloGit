@@ -10,6 +10,7 @@ public class MyGitTest {
 		System.out.println("Hello Git again! it's mark");
 		System.out.println("Hello Git again! it's mip");
 		System.out.println("Hello Git again! it's test);
+		System.out.println("Hello Git again! it's test2);
 
 
 
