@@ -8,6 +8,7 @@ public class MyGitTest {
 		System.out.println("Hello Git again!");
 		System.out.println("Hello Git again!");
 		System.out.println("Hello Git again! it's mark");
+		System.out.println("Hello Git again! it's mip");
 
 
 
